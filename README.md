@@ -67,6 +67,35 @@ Outcome:
 
 ### 2. Data Cleaning & Validation
 
+The second phase focused on validating data quality and preparing the datasets for analysis and modeling.
+
+Activities Performed: 
+
+- Verified and corrected data types across all tables
+- Investigated data quality anomalies
+- Reviewed missing values and null records
+- Validated data against expected business rules
+
+Examined:
+
+- Missing category values
+- Missing delivery dates
+- Product dimension completeness
+- Payment anomalies
+- Review score validity
+- Geographic coordinate validity
+- Delivery timeline consistency
+  
+Outcome:
+
+- Data quality issues investigated and documented
+- Critical business rules validated
+- Datasets prepared for relationship modeling and analysis
+
+
+### 3. Data Modeling
+
+
 
 
 
