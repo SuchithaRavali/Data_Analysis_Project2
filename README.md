@@ -95,7 +95,33 @@ Outcome:
 
 ### 3. Data Modeling
 
+The third phase focused on connecting the datasets and building a relational model to support analysis and reporting.
 
+Activities Performed
+
+- Created relationships between related tables in Model View
+- Verified relationship cardinality and filter direction
+- Identified fact and dimension tables
+- Organized the model to support analytical queries
+
+Established Relationships
+
+- Customers → Orders
+- Orders → OrderItems
+- Orders → Payments
+- Orders → Reviews
+- Products → OrderItems
+- Sellers → OrderItems
+- CategoryTranslation → Products
+
+Outcome
+
+- Connected datasets through business keys
+- Established a logical fact-dimension model
+- Created a foundation for DAX calculations and dashboard development
+
+
+### 3. DAX Measure cretion
 
 
 
