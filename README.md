@@ -121,13 +121,43 @@ Outcome
 - Created a foundation for DAX calculations and dashboard development
 
 
-### 3. DAX Measure cretion
+### 4. DAX Measure cretion
+
+The fourth phase focused on creating reusable business metrics to support reporting and dashboard development.
+
+Activities Performed:
+
+- Created a dedicated Measures Table
+- Developed KPI measures using DAX
+- Applied appropriate formatting to measures
+- Prepared metrics for dashboard visualizations
+  
+Measures Created
+
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value
+- Total Freight Cost
+- Average Review Score
+- Delivered Orders
+- Cancelled Orders
+- Delivery Success Rate
+- Revenue Per Customer
+  
+Outcome
+
+- Reusable business metrics established
+- Consistent calculations across reports
+- Foundation created for dashboard development
+
+### 5. Dashboard development
 
 
 
 ## Learning Outcomes
 
-Through this project, I practiced:
+Through this project, I practice:
 
 - End-to-end Power BI development
 - Data quality assessment
@@ -135,9 +165,5 @@ Through this project, I practiced:
 - Dashboard design
 - Analytical problem solving
 
-This project was created as part of my data analytics portfolio to demonstrate practical Power BI, Power Query, and business intelligence skills.
+This project was being created as part of my data analytics portfolio to demonstrate practical Power BI, Power Query, and business intelligence skills.
 
-
-
-- Examine data distributions
-- Document data quality issues
